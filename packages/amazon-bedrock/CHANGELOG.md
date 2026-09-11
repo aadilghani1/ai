@@ -1,5 +1,11 @@
 # @ai-sdk/amazon-bedrock
 
+## 4.0.176
+
+### Patch Changes
+
+- 6626af1: fix(amazon-bedrock): resolve non-standard partition and service-specific endpoints
+
 ## 4.0.175
 
 ### Patch Changes
