@@ -619,8 +619,10 @@ const result = await generateText({
 });
 
 console.log(result.toolResults);`,
-    docsUrl: 'https://pushary.com/human-in-the-loop-vercel-ai-sdk',
-    apiKeyUrl: 'https://pushary.com/dashboard/settings',
+    docsUrl:
+      'https://pushary.com/human-in-the-loop-vercel-ai-sdk?utm_source=ai-sdk&utm_medium=integration-directory&utm_campaign=pushary-ai-sdk&utm_content=guide',
+    apiKeyUrl:
+      'https://pushary.com/sign-up?from=agent&plan=partner&utm_source=ai-sdk&utm_medium=integration-directory&utm_campaign=pushary-ai-sdk&utm_content=partner-start',
     websiteUrl: 'https://pushary.com',
     npmUrl: 'https://www.npmjs.com/package/@pushary/ai-sdk',
   },
